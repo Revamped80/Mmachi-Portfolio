@@ -1,0 +1,59 @@
+body{
+    margin: 0px; 
+    padding: 0px;
+    border-width: 10px;
+    
+
+}
+
+.pictureHeader{
+    display: inline-flex;
+    height:60%; 
+    width: 100%;
+    background-image: url(champagne-beach-espiritu-santo-island-vanuatu-royalty-free-image-1655672510.avif);
+    background-size: 100%;
+   
+}
+
+.hamburgerAccess{
+
+    width: 40px;
+    height: 40px; 
+  
+    position: absolute;
+    top:0px; 
+    right:0px;  
+}
+.hamburgerAccess:hover{
+    cursor: pointer;
+}
+
+
+h1{
+    font-size: 45px;
+    font-family: 'Times New Roman';
+}
+.bioSection{
+    height:30%;
+}
+.buttonAccess {
+   margin-top: 30px;
+   background-color: aquamarine;
+   height: 50px;
+   text-align: center;
+   padding: 20px;
+}
+span:hover{
+    color: blue; 
+    cursor: pointer;
+}
+
+div:hover { 
+ box-shadow: 9px 10px 10px rgb(78, 74, 74) ;
+    opacity: 80%;
+}
+
+div {
+    
+    border-color: black;
+}
